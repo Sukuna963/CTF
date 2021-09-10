@@ -1,0 +1,15 @@
+<p></p>
+<p><input type="text" name="flag" id="flag" value="Find the flag ! " /> <input type="button" id="prompt" value="Click to check the flag" />
+<script type="text/javascript">
+ document.getElementById("prompt").onclick = function () {
+ var flag = document.getElementById("flag").value;
+ var rFlag = flag.replace(/[a-zA-Z]/g, function(c){
+ return String.fromCharCode((c <= "Z" ? 90 : 122) >= (c = c.charCodeAt(0) - 13) ? c : c + 26);});
+ //if ("******************" == rFlag) {
+alert(rFlag);
+/*} else {
+alert("Incorrect flag, rot again");
+}*/
+ }
+ </script>
+</p>

