@@ -6,6 +6,7 @@
 * [Root-me](https://www.root-me.org/)
 * [TryHackMe](https://tryhackme.com/)
 * [CyberRanges](https://www.cyberranges.com/)
+* [pwn.college](https://pwn.college/)
 
 # Blue_Team
 * [BlueTeamLabs](https://blueteamlabs.online/)
