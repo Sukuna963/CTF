@@ -1,4 +1,4 @@
-# Red-Team
+# Red_Team
 >[General Haaukins CTF](https://general.haaukins.com/)
 
 # Blue_Team
