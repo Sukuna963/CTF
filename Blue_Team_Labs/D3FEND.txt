@@ -1,0 +1,7 @@
+https://blueteamlabs.online/achievement/share/challenge/4725/27
+
+- Mitre D3FEND
+	https://d3fend.mitre.org/
+
+- Regras Azure Do D3FEND
+	https://github.com/Intellisec-Solutions/Sentinel2D3FEND

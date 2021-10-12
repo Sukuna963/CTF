@@ -1,0 +1,6 @@
+https://blueteamlabs.online/achievement/share/4725/32
+
+- Deep Blue
+	- https://github.com/sans-blue-team/DeepBlueCLI
+	- Investigação de Event Log
+	- arquivos .evtx
