@@ -8,6 +8,7 @@
 * [CyberRanges](https://www.cyberranges.com/)
 * [pwn.college](https://pwn.college/)
 * [VulnMachines](https://www.vulnmachines.com/)
+* [PortSwigger Academy](https://portswigger.net/web-security)
 
 # Blue_Team
 * [BlueTeamLabs](https://blueteamlabs.online/)
