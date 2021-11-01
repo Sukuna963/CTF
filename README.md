@@ -15,6 +15,7 @@
 * [Picoctf](https://picoctf.org/)
 * [Pentester Lab](https://pentesterlab.com/)
 * [VulnHub](https://www.vulnhub.com/)
+* [Crackmes](https://crackmes.one/)
 
 # Blue_Team
 * [BlueTeamLabs](https://blueteamlabs.online/)
