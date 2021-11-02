@@ -26,6 +26,8 @@
 |TryHackMe|
 |--------------------------------------------|
 |[Pentesting Principles](https://tryhackme.com/Sukuna/badges/intro-to-pentesting)|
+|[Webbed](https://tryhackme.com/Sukuna/badges/web-fund)|
+|[cat linux.txt](https://tryhackme.com/Sukuna/badges/terminaled)|
 
 |BlueTeamLabs|
 |--------------------------------------------|
