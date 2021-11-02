@@ -22,6 +22,11 @@
 * [LetsDefend](https://letsdefend.io/)
 
 ## Win
+
+|TryHackMe|
+|--------------------------------------------|
+|[Pentesting Principles](https://tryhackme.com/Sukuna/badges/intro-to-pentesting)|
+
 |BlueTeamLabs|
 |--------------------------------------------|
 |[D3FEND](https://blueteamlabs.online/achievement/share/challenge/4725/27)|
