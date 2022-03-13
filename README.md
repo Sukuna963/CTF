@@ -16,6 +16,7 @@
 * [Pentester Lab](https://pentesterlab.com/)
 * [VulnHub](https://www.vulnhub.com/)
 * [Crackmes](https://crackmes.one/)
+* [Jersey CTF](https://jerseyctf.com/#Resources)
 
 # Blue_Team
 * [BlueTeamLabs](https://blueteamlabs.online/)
