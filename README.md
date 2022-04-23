@@ -17,6 +17,7 @@
 * [VulnHub](https://www.vulnhub.com/)
 * [Crackmes](https://crackmes.one/)
 * [Jersey CTF](https://jerseyctf.com/#Resources)
+* [Practical Malware Analysis 2020 CTF](https://samsclass.info/126/PMA2020.htm)
 
 # Blue_Team
 * [BlueTeamLabs](https://blueteamlabs.online/)
