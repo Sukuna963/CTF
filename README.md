@@ -1,3 +1,5 @@
+* [wargame-nexus](https://github.com/zardus/wargame-nexus)
+
 # Red_Team
 * [CTF Time](https://ctftime.org/)
 * [General Haaukins CTF](https://general.haaukins.com/)
